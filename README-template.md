@@ -1,7 +1,10 @@
 ### What I learned
 
+```html
 <h1> Some CSS code I learned </h1>
-<style>
+```
+
+```css
 @media (min-width:500px) {
     .container {
         width: 400px;
@@ -15,8 +18,9 @@ body {
     justify-content: center;
     height: calc(100vh - 1px);
 }
-    
-</style>
+
+```
+
 
 ### Useful resources
 

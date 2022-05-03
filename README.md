@@ -27,6 +27,4 @@ body {
 
 
 ### Useful resources
-
->>>>>>> b1481617a58efce1c93c90e1ae97c0c77c883dfa
 - Resource 1 www.cssgenerator.org/ - This helped me for some shadow settings.

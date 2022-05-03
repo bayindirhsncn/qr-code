@@ -1,7 +1,7 @@
 ### What I learned
 
 ```html
-<h1> Some CSS code I learned </h1>
+Some CSS code I learned
 ```
 
 ```css
